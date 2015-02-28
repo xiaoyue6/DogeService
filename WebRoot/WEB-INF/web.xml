@@ -6,7 +6,7 @@
 	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
 	<context-param>
 		<param-name>webAppRootKey</param-name>
-		<param-value>DogeMusicDataService.root</param-value>
+		<param-value>DogeMusicService.root</param-value>
 	</context-param>
 	<!-- LOG4J -->
 	<context-param>

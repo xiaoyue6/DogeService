@@ -29,7 +29,7 @@
 		class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor" />
 
 	<!-- 对com包中的所有类进行扫描，以完成Bean创建和自动依赖注入的功能 -->
-	<context:component-scan base-package="com.better517na.adsManageDataService" />
+	<context:component-scan base-package="com" />
 
 	<!-- 定时器 -->
 	<task:annotation-driven />
