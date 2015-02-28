@@ -1,4 +1,4 @@
-package com.better517Na.AdsManageSystem.UploadAdsCtrl;
+package com.cuit.DogeMusicDataService.controller;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;
